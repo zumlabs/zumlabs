@@ -19,11 +19,10 @@ A Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/32
 - Experienced in : 
   <p></p>
   <p>
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
     <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white"/>
-    <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
     <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%23ED8B00.svg?style=flat&logo=sqlite&logoColor=white)"/>
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%23777BB4.svg?style=flat&logo=mysql&logoColor=white"/>
+    <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
   </p>
   <p>
     <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white"/>
@@ -33,6 +32,7 @@ A Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/32
 - Currently learning : 
   <p></p>
   <p>
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
     <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white"/>
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
     <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white"/>
