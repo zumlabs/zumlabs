@@ -11,7 +11,7 @@
 </p>
 
 A Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="13"/> <b>Lampung, Indonesia</b>. 
-- 📫 Wanna know more about My experience? Reach me on  <a href="https://www.linkedin.com/in/zums/" target="_blank">LinkedIn</a>
+- 📫 Wanna know more about My experience? Reach me on  <a href="https://www.linkedin.com/in/qoriakbar/" target="_blank">LinkedIn</a>
 - 🖥️ Passionate to learn about Website Development especially Backend
 - Visit my personal website [here](https://zumlabs.site/)
 
