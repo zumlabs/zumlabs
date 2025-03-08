@@ -12,7 +12,7 @@
 
 A Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="13"/> <b>Lampung, Indonesia</b>. 
 - 📫 Wanna know more about My experience? Reach me on  <a href="https://www.linkedin.com/in/" target="_blank">LinkedIn</a>
-- 🖥️ Passionate to learn about Website Development especially Backend
+- 🖥️ Passionate to learn about Website Development
 - Visit my personal website [here](https://zumlabs.vercel.app)
 
 <h3>👨‍💻 Tech Stack & Tools</h3>
@@ -48,10 +48,5 @@ A Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/32
     </tr>
   </thead>
 </table>
- 
-
-[![zumlabs's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zumlabs&theme=react-dark)](https://github.com/zumlabs)
- 
-<!-- Updated on 12 January 2023 --!>
  
 
