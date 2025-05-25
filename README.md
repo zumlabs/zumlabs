@@ -2,7 +2,7 @@
   
 # 👋 Hello! I'm Qori Akbar Rahmatullah✨
 
-<img src="https://avatars.githubusercontent.com/u/zumlabs?v=4" alt="Qori Akbar Rahmatullah" width="150" height="150" style="border-radius: 50%; border: 4px solid #00d4aa; box-shadow: 0 4px 8px rgba(0, 212, 170, 0.3);" />
+<img src="https://github.com/zumlabs.png" alt="Qori Akbar Rahmatullah" width="150" height="150" style="border-radius: 50%; border: 4px solid #00d4aa; box-shadow: 0 4px 8px rgba(0, 212, 170, 0.3);" />
 
 <p dir="auto">
       <animated-image data-catalyst="">
