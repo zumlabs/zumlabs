@@ -17,7 +17,6 @@
 
 </div>
 
----
 
 ## 🚀 About Me
 
@@ -26,7 +25,7 @@
 <div align="left">
   
 🎯 **Current Focus:** Website Development & Software Engineering  
-📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/) | [Personal Website](https://zumlabs.vercel.app)  
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/qoriakbar) | [Personal Website](https://zumlabs.my.id)  
 💡 **Passion:** Building innovative web solutions and learning new technologies  
 
 </div>
@@ -73,9 +72,7 @@
   
 ### 🤝 Let's Connect and Build Something Amazing Together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![Website](https://img.shields.io/badge/Website-00d4aa?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zumlabs.vercel.app)
-
-<img src="https://komarev.com/ghpvc/?username=zumlabs&color=00d4aa&style=for-the-badge" alt="Profile Views" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qoriakbar)
+[![Website](https://img.shields.io/badge/Website-00d4aa?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zumlabs.my.id)
 
 </div>
