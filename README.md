@@ -25,7 +25,7 @@
 <div align="left">
   
 🎯 **Current Focus:** Website Development & Software Engineering  
-📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/qoriakbar) | [Personal Website](https://zumlabs.my.id)  
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/qoriakbar) | [Personal Website](https://zumlabs.tech)  
 💡 **Passion:** Building innovative web solutions and learning new technologies  
 
 </div>
