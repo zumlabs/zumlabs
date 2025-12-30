@@ -26,28 +26,6 @@ Additionally, I have a solid background in **web development**, providing strong
 
 ---
 
-## 🎯 Core Expertise
-
-### 🛡️ Blue Team / SOC Operations
-- Security monitoring and alert analysis  
-- Log investigation and event correlation  
-- Incident response lifecycle (identification, containment, eradication, recovery)  
-- SIEM workflow understanding  
-- Threat detection fundamentals  
-
-### 🧪 Red Team (Learning & Research)
-- Web application attack vectors  
-- Reconnaissance techniques  
-- Exploitation fundamentals  
-- Attacker mindset analysis  
-
-### 🌐 Web Development
-- Backend web development  
-- Secure application architecture  
-- Web application security awareness  
-
----
-
 ## 🛠️ Technical Skills
 
 ### 🔐 Cyber Security
@@ -74,16 +52,11 @@ Additionally, I have a solid background in **web development**, providing strong
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zumlabs&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=zumlabs&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=zumlabs&theme=tokyonight&hide_border=true" />
-
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zumlabs&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=zumlabs&hide=CSS,Javascript,HTML&langs_count=8&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
 
 ---
@@ -102,6 +75,4 @@ Additionally, I have a solid background in **web development**, providing strong
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qoriakbar)
-[![Website](https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zumlabs.tech)
-
-</div>
+[![Website](https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=)]()
