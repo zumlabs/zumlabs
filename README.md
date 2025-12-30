@@ -10,7 +10,7 @@
   style="border-radius:50%; border:3px solid #00d4aa;" 
 />
 
-🔐 **SOC Analyst (Blue Team)** | 🛡️ **Cyber Security Professional** | 🌐 **Web Developer**
+🔐 **SOC Analyst** | 🛡️ **Cyber Security Professional** | 🌐 **Web Developer**
 
 </div>
 
@@ -55,8 +55,12 @@ Additionally, I have a solid background in **web development**, providing strong
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zumlabs&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=zumlabs&hide=CSS,Javascript,HTML&langs_count=8&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zumlabs&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=zumlabs&hide=CSS,Javascript,HTML&langs_count=8&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=zumlabs&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=00d4aa&fire=00d4aa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4aa&sideLabels=ffffff&dates=ffffff" />
+
 </div>
 
 ---
