@@ -13,7 +13,7 @@
 <br/>
 
 [![Website](https://img.shields.io/badge/zumlabs.tech-00d4aa?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zumlabs.tech)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=About.me&logoColor=white)](https://zumlabs.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/zumlabs?tab=repositories)
 
 </div>
 
