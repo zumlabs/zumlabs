@@ -12,7 +12,6 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qoriakbar)
 [![Website](https://img.shields.io/badge/zumlabs.tech-00d4aa?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zumlabs.tech)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=About.me&logoColor=white)](https://zumlabs.tech)
 
@@ -139,6 +138,7 @@ Interested in collaboration or have any questions? Feel free to reach out.
 
 <br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qoriakbar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 <br/>
